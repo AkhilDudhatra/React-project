@@ -1,0 +1,25 @@
+.primeri{
+    background-color: blue;
+}
+.primeri1{
+    background-color: chartreuse;
+}
+.primeri2{
+    background-color: darkviolet;
+}
+.primeri3{
+    background-color: fuchsia;
+}
+.color{
+   padding: 15px;
+    margin: 5px;
+    border-radius: 10px;
+    font-size: 15px;
+    border: none;
+}
+.color:hover{
+    box-shadow: 3px 5px 6px 4px green;
+    background-color: brown;
+}
+    
+
